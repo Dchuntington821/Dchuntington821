@@ -2,7 +2,7 @@
 - 👀 I’m interested in data analysis and data science.
 - 🌱 I’m currently learning data science at tripleten.
 - 💞️ I’m looking to collaborate on... I'm not sure yet
-- 📫 How to reach me: daniel@huntington-music.com
+- 📫 How to reach me: daniel.huntington98@gmail.com
 - Goals: I'm looking to start a new career in the data field!
 - ⚡ Fun fact: I owned and operated a music teaching business for 6 years!
 
