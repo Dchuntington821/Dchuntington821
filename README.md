@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Dchuntington821
 - 👀 I’m interested in data analysis and data science.
 - 🌱 I’m currently learning data science at tripleten.
-- 💞️ I’m looking to collaborate on... I'm not sure yet
+- 💞️ I’m looking to collaborate on Machine Learning Projects.
 - 📫 How to reach me: daniel.huntington98@gmail.com
+- Skills: I'm most proficient with Python, Machine Learning (Regression, Classification, NLP, Time Series Analysis), Feature Engineering, and Exploratory Data Analysis.
 - Goals: I'm looking to start a new career in the data field!
 - ⚡ Fun fact: I owned and operated a music teaching business for 6 years!
 
