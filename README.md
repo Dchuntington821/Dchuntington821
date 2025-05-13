@@ -8,7 +8,7 @@
 - Goals: I'm looking to start a new career in Data Science or Data Analytics! 
 - ⚡ Fun fact: I owned and operated a music teaching business for 6 years!
 
-- Check out my portfolio! https://github.com/Dchuntington821/DataProjects_TripleTen
+- <b>Check out my portfolio! https://github.com/Dchuntington821/DataProjects_TripleTen </b>
 
 <!---
 Dchuntington821/Dchuntington821 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
